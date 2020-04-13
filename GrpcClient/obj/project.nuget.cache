@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "6fPs0LYn+DDniOz2y1i2qVCqX3BJ1ogDFozGhQ+BsZzj6sBsrMn6cyXKphphp9BJTTUe2VfQiHbXULfuVcXwpg==",
+  "success": true,
+  "projectFilePath": "D:\\Facultate\\AN II\\Sem 2\\CNA\\GrpcDemo\\GrpcClient\\GrpcClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lazar\\.nuget\\packages\\google.protobuf\\3.10.0-rc1\\google.protobuf.3.10.0-rc1.nupkg.sha512",
+    "C:\\Users\\lazar\\.nuget\\packages\\grpc.core.api\\2.23.0\\grpc.core.api.2.23.0.nupkg.sha512",
+    "C:\\Users\\lazar\\.nuget\\packages\\grpc.net.client\\0.2.23-pre2\\grpc.net.client.0.2.23-pre2.nupkg.sha512",
+    "C:\\Users\\lazar\\.nuget\\packages\\grpc.net.common\\0.2.23-pre2\\grpc.net.common.0.2.23-pre2.nupkg.sha512",
+    "C:\\Users\\lazar\\.nuget\\packages\\grpc.tools\\2.24.0-pre1\\grpc.tools.2.24.0-pre1.nupkg.sha512",
+    "C:\\Users\\lazar\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\lazar\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
+    "C:\\Users\\lazar\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\lazar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\lazar\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\lazar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\lazar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
