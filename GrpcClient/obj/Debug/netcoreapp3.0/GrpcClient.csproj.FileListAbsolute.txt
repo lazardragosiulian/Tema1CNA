@@ -17,3 +17,22 @@ D:\Facultate\AN II\Sem 2\CNA\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.0\GrpcCli
 D:\Facultate\AN II\Sem 2\CNA\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.0\GrpcClient.dll
 D:\Facultate\AN II\Sem 2\CNA\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.0\GrpcClient.pdb
 D:\Facultate\AN II\Sem 2\CNA\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.0\GrpcClient.genruntimeconfig.cache
+D:\Facultate\repo\Tema1CNA\GrpcClient\obj\Debug\netcoreapp3.0\GrpcClient.csprojAssemblyReference.cache
+D:\Facultate\repo\Tema1CNA\GrpcClient\obj\Debug\netcoreapp3.0\GrpcClient.csproj.CoreCompileInputs.cache
+D:\Facultate\repo\Tema1CNA\GrpcClient\obj\Debug\netcoreapp3.0\GrpcClient.AssemblyInfoInputs.cache
+D:\Facultate\repo\Tema1CNA\GrpcClient\obj\Debug\netcoreapp3.0\GrpcClient.AssemblyInfo.cs
+D:\Facultate\repo\Tema1CNA\GrpcClient\obj\Debug\netcoreapp3.0\GrpcClient.dll
+D:\Facultate\repo\Tema1CNA\GrpcClient\obj\Debug\netcoreapp3.0\GrpcClient.pdb
+D:\Facultate\repo\Tema1CNA\GrpcClient\bin\Debug\netcoreapp3.0\GrpcClient.exe
+D:\Facultate\repo\Tema1CNA\GrpcClient\bin\Debug\netcoreapp3.0\GrpcClient.deps.json
+D:\Facultate\repo\Tema1CNA\GrpcClient\bin\Debug\netcoreapp3.0\GrpcClient.runtimeconfig.json
+D:\Facultate\repo\Tema1CNA\GrpcClient\bin\Debug\netcoreapp3.0\GrpcClient.runtimeconfig.dev.json
+D:\Facultate\repo\Tema1CNA\GrpcClient\bin\Debug\netcoreapp3.0\GrpcClient.dll
+D:\Facultate\repo\Tema1CNA\GrpcClient\bin\Debug\netcoreapp3.0\GrpcClient.pdb
+D:\Facultate\repo\Tema1CNA\GrpcClient\bin\Debug\netcoreapp3.0\Google.Protobuf.dll
+D:\Facultate\repo\Tema1CNA\GrpcClient\bin\Debug\netcoreapp3.0\Grpc.Core.Api.dll
+D:\Facultate\repo\Tema1CNA\GrpcClient\bin\Debug\netcoreapp3.0\Grpc.Net.Client.dll
+D:\Facultate\repo\Tema1CNA\GrpcClient\bin\Debug\netcoreapp3.0\Grpc.Net.Common.dll
+D:\Facultate\repo\Tema1CNA\GrpcClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Facultate\repo\Tema1CNA\GrpcClient\obj\Debug\netcoreapp3.0\GrpcClient.csproj.CopyComplete
+D:\Facultate\repo\Tema1CNA\GrpcClient\obj\Debug\netcoreapp3.0\GrpcClient.genruntimeconfig.cache

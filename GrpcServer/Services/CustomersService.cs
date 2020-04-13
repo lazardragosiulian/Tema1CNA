@@ -19,23 +19,7 @@ namespace GrpcServer.Services
         public override Task<CustomerModel> GetCustomerInfo(CustomerLookupModel request, ServerCallContext context)
         {
             CustomerModel output = new CustomerModel();
-
-            if (request.UserId == 1)
-            {
-                output.FirstName = "Jamie";
-                output.LastName = "Smith";
-            }
-            else if (request.UserId == 2)
-            {
-                output.FirstName = "Jane";
-                output.LastName = "Doe";
-            }
-            else
-            {
-                output.FirstName = "Greg";
-                output.LastName = "Thomas";
-            }
-
+            Console.WriteLine("Hello," + request.UserId);
             return Task.FromResult(output);
         }
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eciuzm1Sf2z/FD32nBGvaoTeAHU+keEBFRFfLkII/xvd82kLTFn+qteyUMtbU4e1z+ouaIBKMtpHg9Nfj6hlzg==",
+  "dgSpecHash": "gXPkwzVSOrTmFRlUknYCMyY16K5hvlogVCZ6OM4liejwhZV9ThoA1USAjQWPv+zhP0kU/qg+nT6ZgtQzPMNixQ==",
   "success": true,
-  "projectFilePath": "D:\\Facultate\\AN II\\Sem 2\\CNA\\GrpcDemo\\GrpcServer\\GrpcServer.csproj",
+  "projectFilePath": "D:\\Facultate\\repo\\Tema1CNA\\GrpcServer\\GrpcServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lazar\\.nuget\\packages\\google.protobuf\\3.9.1\\google.protobuf.3.9.1.nupkg.sha512",
     "C:\\Users\\lazar\\.nuget\\packages\\grpc.aspnetcore\\0.2.23-pre1\\grpc.aspnetcore.0.2.23-pre1.nupkg.sha512",

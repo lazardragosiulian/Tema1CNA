@@ -25,7 +25,7 @@ namespace GrpcServer {
       byte[] descriptorData = global::System.Convert.FromBase64String(
           string.Concat(
             "ChZQcm90b3MvY3VzdG9tZXJzLnByb3RvIhQKEk5ld0N1c3RvbWVyUmVxdWVz",
-            "dCIlChNDdXN0b21lckxvb2t1cE1vZGVsEg4KBnVzZXJJZBgBIAEoBSJoCg1D",
+            "dCIlChNDdXN0b21lckxvb2t1cE1vZGVsEg4KBnVzZXJJZBgBIAEoCSJoCg1D",
             "dXN0b21lck1vZGVsEhEKCWZpcnN0TmFtZRgBIAEoCRIQCghsYXN0TmFtZRgC",
             "IAEoCRIUCgxlbWFpbEFkZHJlc3MYAyABKAkSDwoHaXNBbGl2ZRgEIAEoCBIL",
             "CgNhZ2UYBSABKAUyfQoIQ3VzdG9tZXISNwoPR2V0Q3VzdG9tZXJJbmZvEhQu",
@@ -181,12 +181,12 @@ namespace GrpcServer {
 
     /// <summary>Field number for the "userId" field.</summary>
     public const int UserIdFieldNumber = 1;
-    private int userId_;
+    private string userId_ = "";
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    public int UserId {
+    public string UserId {
       get { return userId_; }
       set {
-        userId_ = value;
+        userId_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
       }
     }
 
@@ -210,7 +210,7 @@ namespace GrpcServer {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public override int GetHashCode() {
       int hash = 1;
-      if (UserId != 0) hash ^= UserId.GetHashCode();
+      if (UserId.Length != 0) hash ^= UserId.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -224,9 +224,9 @@ namespace GrpcServer {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
-      if (UserId != 0) {
-        output.WriteRawTag(8);
-        output.WriteInt32(UserId);
+      if (UserId.Length != 0) {
+        output.WriteRawTag(10);
+        output.WriteString(UserId);
       }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
@@ -236,8 +236,8 @@ namespace GrpcServer {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
       int size = 0;
-      if (UserId != 0) {
-        size += 1 + pb::CodedOutputStream.ComputeInt32Size(UserId);
+      if (UserId.Length != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(UserId);
       }
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
@@ -250,7 +250,7 @@ namespace GrpcServer {
       if (other == null) {
         return;
       }
-      if (other.UserId != 0) {
+      if (other.UserId.Length != 0) {
         UserId = other.UserId;
       }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
@@ -264,8 +264,8 @@ namespace GrpcServer {
           default:
             _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
             break;
-          case 8: {
-            UserId = input.ReadInt32();
+          case 10: {
+            UserId = input.ReadString();
             break;
           }
         }
@@ -359,9 +359,7 @@ namespace GrpcServer {
     /// <summary>Field number for the "age" field.</summary>
     public const int AgeFieldNumber = 5;
     private int age_;
-        internal string input;
-
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int Age {
       get { return age_; }
       set {

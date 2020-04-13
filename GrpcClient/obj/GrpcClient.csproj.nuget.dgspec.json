@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Facultate\\AN II\\Sem 2\\CNA\\GrpcDemo\\GrpcClient\\GrpcClient.csproj": {}
+    "D:\\Facultate\\repo\\Tema1CNA\\GrpcClient\\GrpcClient.csproj": {}
   },
   "projects": {
-    "D:\\Facultate\\AN II\\Sem 2\\CNA\\GrpcDemo\\GrpcClient\\GrpcClient.csproj": {
+    "D:\\Facultate\\repo\\Tema1CNA\\GrpcClient\\GrpcClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Facultate\\AN II\\Sem 2\\CNA\\GrpcDemo\\GrpcClient\\GrpcClient.csproj",
+        "projectUniqueName": "D:\\Facultate\\repo\\Tema1CNA\\GrpcClient\\GrpcClient.csproj",
         "projectName": "GrpcClient",
-        "projectPath": "D:\\Facultate\\AN II\\Sem 2\\CNA\\GrpcDemo\\GrpcClient\\GrpcClient.csproj",
+        "projectPath": "D:\\Facultate\\repo\\Tema1CNA\\GrpcClient\\GrpcClient.csproj",
         "packagesPath": "C:\\Users\\lazar\\.nuget\\packages\\",
-        "outputPath": "D:\\Facultate\\AN II\\Sem 2\\CNA\\GrpcDemo\\GrpcClient\\obj\\",
+        "outputPath": "D:\\Facultate\\repo\\Tema1CNA\\GrpcClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lazar\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -616,11 +616,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Facultate\\AN II\\Sem 2\\CNA\\GrpcDemo\\GrpcServer\\GrpcServer.csproj",
+      "projectUniqueName": "D:\\Facultate\\repo\\Tema1CNA\\GrpcServer\\GrpcServer.csproj",
       "projectName": "GrpcServer",
-      "projectPath": "D:\\Facultate\\AN II\\Sem 2\\CNA\\GrpcDemo\\GrpcServer\\GrpcServer.csproj",
+      "projectPath": "D:\\Facultate\\repo\\Tema1CNA\\GrpcServer\\GrpcServer.csproj",
       "packagesPath": "C:\\Users\\lazar\\.nuget\\packages\\",
-      "outputPath": "D:\\Facultate\\AN II\\Sem 2\\CNA\\GrpcDemo\\GrpcServer\\obj\\",
+      "outputPath": "D:\\Facultate\\repo\\Tema1CNA\\GrpcServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lazar\\AppData\\Roaming\\NuGet\\NuGet.Config",

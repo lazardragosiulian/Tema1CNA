@@ -26,3 +26,31 @@ D:\Facultate\AN II\Sem 2\CNA\GrpcDemo\GrpcServer\obj\Debug\netcoreapp3.0\staticw
 D:\Facultate\AN II\Sem 2\CNA\GrpcDemo\GrpcServer\obj\Debug\netcoreapp3.0\GrpcServer.dll
 D:\Facultate\AN II\Sem 2\CNA\GrpcDemo\GrpcServer\obj\Debug\netcoreapp3.0\GrpcServer.pdb
 D:\Facultate\AN II\Sem 2\CNA\GrpcDemo\GrpcServer\obj\Debug\netcoreapp3.0\GrpcServer.genruntimeconfig.cache
+D:\Facultate\repo\Tema1CNA\GrpcServer\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Facultate\repo\Tema1CNA\GrpcServer\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Facultate\repo\Tema1CNA\GrpcServer\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Facultate\repo\Tema1CNA\GrpcServer\bin\Debug\netcoreapp3.0\GrpcServer.exe
+D:\Facultate\repo\Tema1CNA\GrpcServer\bin\Debug\netcoreapp3.0\GrpcServer.deps.json
+D:\Facultate\repo\Tema1CNA\GrpcServer\bin\Debug\netcoreapp3.0\GrpcServer.runtimeconfig.json
+D:\Facultate\repo\Tema1CNA\GrpcServer\bin\Debug\netcoreapp3.0\GrpcServer.runtimeconfig.dev.json
+D:\Facultate\repo\Tema1CNA\GrpcServer\bin\Debug\netcoreapp3.0\GrpcServer.dll
+D:\Facultate\repo\Tema1CNA\GrpcServer\bin\Debug\netcoreapp3.0\GrpcServer.pdb
+D:\Facultate\repo\Tema1CNA\GrpcServer\bin\Debug\netcoreapp3.0\Google.Protobuf.dll
+D:\Facultate\repo\Tema1CNA\GrpcServer\bin\Debug\netcoreapp3.0\Grpc.AspNetCore.Server.dll
+D:\Facultate\repo\Tema1CNA\GrpcServer\bin\Debug\netcoreapp3.0\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\Facultate\repo\Tema1CNA\GrpcServer\bin\Debug\netcoreapp3.0\Grpc.Core.Api.dll
+D:\Facultate\repo\Tema1CNA\GrpcServer\bin\Debug\netcoreapp3.0\Grpc.Net.Client.dll
+D:\Facultate\repo\Tema1CNA\GrpcServer\bin\Debug\netcoreapp3.0\Grpc.Net.ClientFactory.dll
+D:\Facultate\repo\Tema1CNA\GrpcServer\bin\Debug\netcoreapp3.0\Grpc.Net.Common.dll
+D:\Facultate\repo\Tema1CNA\GrpcServer\obj\Debug\netcoreapp3.0\GrpcServer.csprojAssemblyReference.cache
+D:\Facultate\repo\Tema1CNA\GrpcServer\obj\Debug\netcoreapp3.0\GrpcServer.csproj.CoreCompileInputs.cache
+D:\Facultate\repo\Tema1CNA\GrpcServer\obj\Debug\netcoreapp3.0\GrpcServer.MvcApplicationPartsAssemblyInfo.cache
+D:\Facultate\repo\Tema1CNA\GrpcServer\obj\Debug\netcoreapp3.0\GrpcServer.AssemblyInfoInputs.cache
+D:\Facultate\repo\Tema1CNA\GrpcServer\obj\Debug\netcoreapp3.0\GrpcServer.AssemblyInfo.cs
+D:\Facultate\repo\Tema1CNA\GrpcServer\obj\Debug\netcoreapp3.0\GrpcServer.RazorTargetAssemblyInfo.cache
+D:\Facultate\repo\Tema1CNA\GrpcServer\obj\Debug\netcoreapp3.0\GrpcServer.csproj.CopyComplete
+D:\Facultate\repo\Tema1CNA\GrpcServer\obj\Debug\netcoreapp3.0\staticwebassets\GrpcServer.StaticWebAssets.Manifest.cache
+D:\Facultate\repo\Tema1CNA\GrpcServer\obj\Debug\netcoreapp3.0\staticwebassets\GrpcServer.StaticWebAssets.xml
+D:\Facultate\repo\Tema1CNA\GrpcServer\obj\Debug\netcoreapp3.0\GrpcServer.dll
+D:\Facultate\repo\Tema1CNA\GrpcServer\obj\Debug\netcoreapp3.0\GrpcServer.pdb
+D:\Facultate\repo\Tema1CNA\GrpcServer\obj\Debug\netcoreapp3.0\GrpcServer.genruntimeconfig.cache

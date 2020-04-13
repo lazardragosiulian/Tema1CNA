@@ -12,7 +12,7 @@ message NewCustomerRequest{
 }
 
 message CustomerLookupModel {
-	int32 userId = 1;
+	string userId = 1;
 }
 
 message CustomerModel {
