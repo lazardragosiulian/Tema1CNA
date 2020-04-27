@@ -19,6 +19,7 @@ namespace GrpcClient
 
             var channel = GrpcChannel.ForAddress("https://localhost:5001");
             var customerClient = new Customer.CustomerClient(channel);
+            Console.WriteLine("Introduceti o data sub forma: luna/zi/an  \n");
             var input = Console.ReadLine();
             DateTime dDate;
 
