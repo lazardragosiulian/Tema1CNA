@@ -2,6 +2,7 @@
 using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -21,68 +22,71 @@ namespace GrpcServer.Services
         {
             int month = dt.Month;
             int day = dt.Day;
-            switch (month)
+            using (TextReader reader = File.OpenText(@"D:\Facultate\repo\Tema1CNA\GrpcServer\Services\zodii.txt"))
             {
-                case 1:
-                    if (day <= 19)
-                        return "Capricorn";
-                    else
-                        return "Varsator";
-                case 2:
-                    if (day <= 18)
-                        return "Varsator";
-                    else
-                        return "Pesti";
-                case 3:
-                    if (day <= 20)
-                        return "Pesti";
-                    else
-                        return "Berbec";
-                case 4:
-                    if (day <= 19)
-                        return "Berbec";
-                    else
-                        return "Taur";
-                case 5:
-                    if (day <= 20)
-                        return "Taur";
-                    else
-                        return "Gemeni";
-                case 6:
-                    if (day <= 20)
-                        return "Gemeni";
-                    else
-                        return "Rac";
-                case 7:
-                    if (day <= 22)
-                        return "Rac";
-                    else
-                        return "Leu";
-                case 8:
-                    if (day <= 22)
-                        return "Leu";
-                    else
-                        return "Fecioara";
-                case 9:
-                    if (day <= 22)
-                        return "Fecioara";
-                    else
-                        return "Balanta";
-                case 10:
-                    if (day <= 22)
-                        return "Balanta";
-                    else
-                        return "Scorpion";
-                case 11:
-                    if (day <= 21)
-                        return "Scorpion";
-                    else
-                        return "Segetator";
-                case 12:
-                    if (day <= 21)
-                        return "Segetator";
-                    else
-                        return "Capricorn";
+                switch (month)
+                {
+                    case 1:
+                        if (day <= int.Parse(reader.ReadLine()) )
+                            return "Capricorn";
+                        else
+                            return "Varsator";
+                    case 2:
+                        if (day <= int.Parse(reader.ReadLine()))
+                            return "Varsator";
+                        else
+                            return "Pesti";
+                    case 3:
+                        if (day <= int.Parse(reader.ReadLine()))
+                            return "Pesti";
+                        else
+                            return "Berbec";
+                    case 4:
+                        if (day <= int.Parse(reader.ReadLine()))
+                            return "Berbec";
+                        else
+                            return "Taur";
+                    case 5:
+                        if (day <= int.Parse(reader.ReadLine()))
+                            return "Taur";
+                        else
+                            return "Gemeni";
+                    case 6:
+                        if (day <= int.Parse(reader.ReadLine()))
+                            return "Gemeni";
+                        else
+                            return "Rac";
+                    case 7:
+                        if (day <= int.Parse(reader.ReadLine()))
+                            return "Rac";
+                        else
+                            return "Leu";
+                    case 8:
+                        if (day <= int.Parse(reader.ReadLine()))
+                            return "Leu";
+                        else
+                            return "Fecioara";
+                    case 9:
+                        if (day <= int.Parse(reader.ReadLine()))
+                            return "Fecioara";
+                        else
+                            return "Balanta";
+                    case 10:
+                        if (day <= int.Parse(reader.ReadLine()))
+                            return "Balanta";
+                        else
+                            return "Scorpion";
+                    case 11:
+                        if (day <= int.Parse(reader.ReadLine()))
+                            return "Scorpion";
+                        else
+                            return "Segetator";
+                    case 12:
+                        if (day <= int.Parse(reader.ReadLine()))
+                            return "Segetator";
+                        else
+                            return "Capricorn";
+                }
             }
             return "";
         }
